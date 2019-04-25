@@ -204,6 +204,11 @@
                             "type": "number",
                             "default": 0.3,
                             "description": "%emmetPreferencesCssFuzzySearchMinScore%"
+                        },
+                        "css.color.short": {
+                            "type": "boolean",
+                            "default": false,
+                            "description": "%emmetPreferencesCssColorShort%"
                         }
                     }
                 },
